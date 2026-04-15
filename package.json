@@ -1,0 +1,17 @@
+{
+  "name": "scarlet-proxy",
+  "version": "1.0.0",
+  "description": "Node.js proxy server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "http-proxy": "^1.18.1"
+  }
+}
